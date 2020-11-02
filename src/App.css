@@ -1,0 +1,51 @@
+a{
+  text-decoration: none;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+body {
+  background-image: url('./assets/background.png');
+  background-size: cover;
+}
+
+.box-initial {
+  margin-top: 60px;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  margin-right: 50%;
+}
+
+.title {
+  font-size: 4em;
+  font-family: TT;
+  font-weight: bold;
+  color: white;
+}
+
+.sub-title {
+  font-size: 1.5em;
+  font-family: TT;
+  font-weight: lighter;
+  color: white;
+  margin-right: 10%;
+  margin-bottom: 10%;
+}
+
+.getbtn {
+  padding-top: 16px;
+  padding-bottom: 18px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #0073EC;
+  border-radius: 5px;
+  transition: all 0.3s;
+  font-weight: bold;
+  color: white;
+}

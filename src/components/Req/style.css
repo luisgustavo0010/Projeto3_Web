@@ -1,0 +1,24 @@
+.box-busca {
+    flex-direction: column;
+    text-align: center;
+    /* background-color: white; */;
+    font-family: TT;
+    color: white;
+    font-size: 15px;
+}
+
+.box-result {
+    font-family: TT;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+.cardlist {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
