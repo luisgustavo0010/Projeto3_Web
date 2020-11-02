@@ -1,5 +1,5 @@
-# Projeto1_Web
-Projeto 2 (em dupla) para a disciplina de Programação para Web.
+# Projeto3_Web
+Projeto 3 (em dupla) para a disciplina de Programação para Web.
 
 ## Alunos
 - Eduardo Rodrigo de Oliveira
@@ -9,4 +9,4 @@ Projeto 2 (em dupla) para a disciplina de Programação para Web.
 ...
 
 ## Acesso Online
-Pode-se acessar o conteúdo do código em https://eduardo82926.github.io/Projeto2_Web/ .
+Pode-se acessar o conteúdo do código em https://github.com/luisgustavo0010/Projeto3_Web.
